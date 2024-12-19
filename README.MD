@@ -44,12 +44,6 @@ for (let i = 0; i < arr.length; i++) {
 }
 ```
 
-## Author Information
-
-- Author: rabithua
-- GitHub: [https://github.com/rabithua](https://github.com/rabithua)
-- Creation Date: 2024-12-19
-
 ## License
 
 MIT
