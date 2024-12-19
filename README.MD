@@ -1,3 +1,5 @@
+![mongo2postgres](https://github.com/Rabithua/mongo2postgres/blob/main/mongo2postgres.png)
+
 # MongoDB to PostgreSQL CSV Converter
 
 A tool for converting MongoDB CSV files to PostgreSQL format.
