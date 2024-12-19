@@ -1,0 +1,2 @@
+_id,userid,endpoint,expirationTime,createdAt,updatedAt,keys.auth,keys.p256dh
+6675a4de865e8936b3a9ec67,65f2f28eaa85f74b004888a8,https://fcm.googleapis.com/fcm/send/ejJahMPw6Yg:APA91bEhvnWqYSQniqp0hcbv1qiv07ILI3ITO7ap-OToebGrgQQOXlQ0Q1WWmv5u5RS1HjHTHgT3D3_pWQ6aJjNYzaul8Y5BstQTKwjBuNuTkyV1Q6zarSWu_jA3QHGQeldJrcsgSxOs,,2024-06-21T16:05:50.870Z,2024-06-21T16:05:50.870Z,Gfqb-OkmArM1Ys542sNyfQ,BEe7tB6dzyGqn5VdBcukKIy-ygZjhKOXqnDmr3F3QDr55XJ7hhv3vMvF_oIVUGyDHPQLyJPQtD-NHVYi11LWrjA

@@ -1,0 +1,13 @@
+{
+    "name": "bonjour-scripts",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "A simple script for bonjour.",
+    "scripts": {
+        "walletFomate": "node walletFomate.js"
+    },
+    "dependencies": {
+        "csv-parser": "^3.0.0",
+        "json2csv": "^6.0.0-alpha.2"
+    }
+}
