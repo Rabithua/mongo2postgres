@@ -1,3 +1,5 @@
+> It’s not working well yet, I need to complete the code next time I have the motivation
+
 ![mongo2postgres](https://github.com/Rabithua/mongo2postgres/blob/main/mongo2postgres.png)
 
 # MongoDB to PostgreSQL CSV Converter
